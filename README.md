@@ -9,14 +9,6 @@ The system works as follows:
 3. **Response Analysis**: The system analyzes the responses using clustering techniques to find the most consistent and optimal answer.
 4. **Output**: The system returns the best answer along with metadata about the contributing models.
 
-### README File
-
-```markdown
-# Playground AI
-
-### Description:
-An ensemble AI model that aggregates responses from multiple AI models and provides the most optimal answer.
-
 ### Features:
 - Query multiple AI models simultaneously
 - Analyze and cluster responses
@@ -316,5 +308,3 @@ Open your browser and navigate to `http://localhost:8501` to use the application
 - Ensure your API key is stored securely (preferably in a `.env` file or through environment variables).
 - Test the application thoroughly before deployment.
 - Follow GitHub best practices for sharing open-source projects.
-
-If you need further assistance, feel free to ask!
