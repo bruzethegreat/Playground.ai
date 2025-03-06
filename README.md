@@ -62,16 +62,13 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 [MIT License](LICENSE)
 
 ### Contact:
-For any questions or feedback, feel free to contact us at your.email@example.com.
+For any questions or feedback, feel free to contact us at bruze999.email@example.com.
 
 ---
 
 ### Special Thanks:
 - OpenRouter API for providing access to multiple AI models.
 - Hugging Face for the Sentence Transformers library.
-```
-
----
 
 ### Step-by-Step Setup Instructions:
 
